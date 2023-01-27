@@ -1,6 +1,6 @@
 # UX Portfolio
 
-Hi! I'm Emily. I’m a graphic designer and creative person based in Northern California. Welcome to my portfolio!
+Hi! I'm Emily (she/her). I’m a graphic designer and creative based in Northern California. Welcome to my portfolio!
 
 ## UX Team Project
 
