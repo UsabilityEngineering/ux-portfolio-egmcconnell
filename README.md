@@ -4,7 +4,7 @@ Hi! I'm Emily (she/her). I’m a graphic designer and creative based in Northern
 
 ## UX Team Project
 
-Coming soon.
+[Voting Match](https://github.com/UsabilityEngineering/VotingMatch/)
 
 ## UX Journal
 
