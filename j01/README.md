@@ -3,13 +3,13 @@
 ### Emily McConnell - May 16, 2023 ###
  
 
-InfoVote is a mobile application that provides voters with helpful, educational information about elections. My teammates and I assessed the app during our process of developing a voter education service of our own, so I decided to document some of the more interesting aspects I noticed about their interface design.
+InfoVote is a mobile application that provides voters with helpful, educational information about elections. My teammates and I assessed the app during our process of developing a voter education service of our own, so I decided to document some of the more interesting aspects I noticed about their interface design. 
+
+In using InfoVote, my primary goal was to easily find simplified, concise information about officials and political candidates. It is clear that the app was designed for this purpose, but actually using the app this way proved to be a bit more tedious than it looked.
 
 Below is an image of InfoVote's landing page.
 
 ![homescreen](https://github.com/UsabilityEngineering/ux-portfolio-egmcconnell/assets/123515641/9d5bc9d2-9295-48d9-b25d-1b977d83a39b)
-
-In using InfoVote, my primary goal was to easily find simplified, concise information about officials and political candidates. It is clear that the app was designed for this purpose, but actually using the app this way proved to be a bit more tedious than it looked.
 
 After using the app, I feel that InfoVote can be compared to an educational Twitter thread that provides links to information, but not the actual information in the tweets. InfoVote succeeds at guiding users to information, but does not actually provide it themselves. Using the app, I noticed that most times I tapped on an informative button like "Find my senator", I was linked to another site and taken from InfoVote to my Safari app. 
 
