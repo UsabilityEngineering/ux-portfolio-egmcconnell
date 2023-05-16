@@ -7,7 +7,7 @@ InfoVote is a mobile application that provides voters with helpful, educational 
 
 In using InfoVote, my primary goal was to easily find simplified, concise information about officials and political candidates. It is clear that the app was designed for this purpose, but actually using the app this way proved to be a bit more tedious than it looked.
 
-Below is an image of InfoVote's landing page.
+Below is InfoVote's landing page.
 
 ![homescreen](https://github.com/UsabilityEngineering/ux-portfolio-egmcconnell/assets/123515641/9d5bc9d2-9295-48d9-b25d-1b977d83a39b)
 
